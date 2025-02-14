@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi! I'm Sara, an Artificial Intelligence student at IAU University with a strong passion for integrating AI into real-world applications. My focus is on leveraging machine learning to solve complex problems and enhance user experiences.
+Hi! I'm Sara, an Artificial Intelligence student at IAU University with a strong passion for integrating AI into real-world applications. My focus is on leveraging AI to solve complex problems and enhance user experiences.
 
 
 🎓 Currently working on my AI projects.
